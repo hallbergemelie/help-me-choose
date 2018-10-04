@@ -71,3 +71,11 @@ button:hover {
   background-color: #ff7305;
   border-color: white;
 }
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
